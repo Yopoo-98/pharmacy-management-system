@@ -87,19 +87,9 @@ git clone https://github.com/Yopoo-98/pharmacy-management-system.git
 6. Open the system in your browser:
    
 ** User Credentials
-Email: frimpongfredrick87@gmail.com.
-Password: 0548567598.
+Email: frimpongfredrick87@gmail.com
+Password: 0548567598
 
-
-
-
-
-
-**Finance Management
-
--Track payments (Fully Paid / Not Fully Paid).
-
--Carry forward balances across terms.
 
 
 web based pharmacy_m_system
