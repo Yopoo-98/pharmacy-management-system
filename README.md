@@ -5,7 +5,7 @@ A Pharmacy Management System built with PHP & MySQL to streamline medicine inven
 
 Features
 
-User Authentication
+*User Authentication
 
 Secure login and registration with hashed passwords.
 
