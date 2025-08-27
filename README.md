@@ -1,49 +1,49 @@
 # pharmacy-management-system
-Pharmacy Management System
-
-A Pharmacy Management System built with PHP & MySQL to streamline medicine inventory, sales, supplier management, and reporting. This system helps pharmacists manage stock, track sales, and ensure smooth day-to-day operations.
+-A Pharmacy Management System built with PHP & MySQL to streamline medicine inventory, sales, supplier management, and reporting. This system helps pharmacists manage stock, track sales, and ensure smooth day-to-day operations.
 
 Features
 
-*User Authentication
+**User Authentication
 
-Secure login and registration with hashed passwords.
+-Secure login and registration with hashed passwords.
 
-Role-based access (Admin, Pharmacist, Cashier).
+-Role-based access (Admin, Pharmacist, Cashier).
 
-Medicine Management
+**Medicine Management
 
-Add, update, and delete medicines.
+-Add, update, and delete medicines.
 
-Track batch ID, expiry date, supplier, and stock levels.
+-Track batch ID, expiry date, supplier, and stock levels.
 
-Automatic alerts for expired and low-stock medicines.
+-Automatic alerts for expired and low-stock medicines.
 
-Sales Management
+**Sales Management
 
-Generate sales invoices.
+-Generate sales invoices.
 
-Apply discounts and calculate final totals.
+-Apply discounts and calculate final totals.
 
-Print receipts for customers.
+-Print receipts for customers.
 
-Supplier Management
+**Supplier Management
 
-Store supplier details.
+-Store supplier details.
 
-Manage medicine supply records.
+-Manage medicine supply records.
 
-Reports & Dashboard
+**Reports & Dashboard
 
-Daily, weekly, and monthly sales reports.
+-Daily, weekly, and monthly sales reports.
 
-Graphical charts for sales trends.
+-Graphical charts for sales trends.
 
-Low stock and expired drug reports.
+-Low stock and expired drug reports.
 
-Finance Management
+**Finance Management
 
-Track payments (Fully Paid / Not Fully Paid).
+-Track payments (Fully Paid / Not Fully Paid).
 
-Carry forward balances across terms.
+-Carry forward balances across terms.
+
+
 web based pharmacy_m_system
