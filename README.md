@@ -39,6 +39,58 @@ Features
 
 -Low stock and expired drug reports.
 
+**Tech Stack
+
+-Frontend: HTML, CSS, Bootstrap, JavaScript (DataTables, Chart.js)
+
+-Backend: PHP (Procedural & OOP)
+
+-Database: MySQL
+
+-Server: Apache (XAMPP / WAMP / LAMP)
+
+**Project Structure
+pharmacy-management/
+│── config/             # Database connection  
+│── css/                # Stylesheets  
+│── js/                 # JavaScript files  
+│── fpdf/               # PDF generation library  
+│── index.php           # Dashboard (main page)  
+│── login.php           # User login  
+│── register.php        # User registration  
+│── medicines.php       # Manage medicines  
+│── sales.php           # Manage sales & invoices  
+│── suppliers.php       # Supplier management  
+│── reports.php         # Sales & stock reports  
+│── print_sales.php     # Receipt generation  
+│── README.md           # Documentation  
+
+
+⚙️ Installation
+
+1. Clone the repository:
+git clone https://github.com/your-username/pharmacy-management.git
+
+2. Move the project folder to your server (e.g., htdocs for XAMPP).
+
+3. Import the database:
+
+-Open phpMyAdmin.
+
+-Create a new database (e.g., pharmacy).
+
+-Import the pharmacy.sql file.
+ 
+4. Update database credentials in include/connection.php:
+     $conn = mysqli_connect("localhost", "root", "", "pharmacy");
+5. Start Apache & MySQL from XAMPP/WAMP.
+6. Open the system in your browser:
+
+
+
+
+
+
 **Finance Management
 
 -Track payments (Fully Paid / Not Fully Paid).
