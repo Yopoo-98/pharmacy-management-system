@@ -85,7 +85,8 @@ git clone https://github.com/Yopoo-98/pharmacy-management-system.git
      $conn = mysqli_connect("localhost", "root", "", "pharmacy");
 5. Start Apache & MySQL from XAMPP/WAMP.
 6. Open the system in your browser:
-7. User Credentials:
+   
+** User Credentials
 Email: frimpongfredrick87@gmail.com.
 Password: 0548567598.
 
